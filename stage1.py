@@ -1,0 +1,2 @@
+a = "sodex"
+print(a)
